@@ -40,7 +40,7 @@ const countries = [
     "Chile", "United Kingdom", "Mexico", "Germany", "Argentina", 
     "Spain", "USA", "South Korea", "Japan", "South Africa", "Russia", "Qatar"
 ];
-const counts = [1, 2, 1, 2, 1, 1, 1, 1, 3, 2, 1, 1, 1, 1, 1, 1, 1, 1];
+const counts = [1, 2, 1, 2, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1];
 
 const staticData = [{
     type: 'choropleth',
